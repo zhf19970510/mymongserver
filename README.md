@@ -1,0 +1,2 @@
+# mymongserver
+这是用SpringBoot+mongodb来实现的一个简易文件服务器
